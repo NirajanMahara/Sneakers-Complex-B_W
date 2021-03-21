@@ -9,3 +9,4 @@ Developed totally mobile first and then desktop.
 
 Don't forget to join the channel for more videos like this.
 [Bedimcode](https://www.youtube.com/c/Bedimcode)
+v2
