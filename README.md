@@ -1,3 +1,4 @@
+# Sneakers-Complex-B_W
 # Responsive Ecommerce Website Sneakers
 ## [Watch it on youtube](https://youtu.be/-EM4uVJm9qo)
 ### Responsive Ecommerce Website Sneakers
@@ -9,3 +10,9 @@ Developed totally mobile first and then desktop.
 
 Don't forget to join the channel for more videos like this.
 [Bedimcode](https://www.youtube.com/c/Bedimcode)
+<<<<<<< HEAD:ref_README.md
+=======
+v2
+v3
+
+>>>>>>> 35fa9cb68af9d4dc8d342cc0a0b19e9502b83e77:README.md
